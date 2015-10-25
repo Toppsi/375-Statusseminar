@@ -1,0 +1,918 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Electronic{Academic2015,
+  Title                    = {Stroke},
+  Author                   = {Britannica Academic},
+  Language                 = {Engelsk},
+  Month                    = {September},
+  Organization             = {Encyclopaedia Britannica},
+  Url                      = {http://academic.eb.com.zorac.aub.aau.dk/EBchecked/topic/569347/stroke},
+  Year                     = {2015},
+
+  Owner                    = {sofiehelenebjrsrudjensen},
+  Timestamp                = {2015.09.22}
+}
+
+@Electronic{Academic2015a,
+  Title                    = {Nervous System disease},
+  Author                   = {Academic, Britannica},
+  Month                    = {September},
+  Url                      = {http://academic.eb.com/EBchecked/topic/1800831/nervous-system-disease/75792/Stroke?anchor=ref606262},
+  Year                     = {2015},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Electronic{Academic2015b,
+  Title                    = {Human nervous system},
+  Author                   = {Britannica Academic},
+  Month                    = {Oktober},
+  Url                      = {http://academic.eb.com.zorac.aub.aau.dk/EBchecked/topic/409709/human-nervous-system/75529/The-brain},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.04}
+}
+
+@Electronic{Academic2015c,
+  Title                    = {Accelerometer},
+  Author                   = {Britannica Academic},
+  Month                    = {Oktober},
+  Url                      = {http://academic.eb.com.zorac.aub.aau.dk/EBchecked/topic/2859/accelerometer},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.12}
+}
+
+@Electronic{Ammundsen2015,
+  Title                    = {MR-scanning},
+  Author                   = {Ammundsen, Ida Nymand and Kjems, Elisabeth},
+  Month                    = {Marts},
+  Organization             = {Kræftens Bekæmpelse},
+  Url                      = {https://www.cancer.dk/hjaelp-viden/undersoegelser-for-kraeft/scanninger-billedundersoegelser/mr-scanning/},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.01}
+}
+
+@Article{Andersen2007,
+  Title                    = {Intracerebral Hæmoragi},
+  Author                   = {Andersen, Grethe and Meden, Per and others},
+  Journal                  = {Ugeskrift for Laeger},
+  Year                     = {2007},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.10.08}
+}
+
+@Article{Apopleksi2009,
+  Title                    = {Referenceprogram for Behandling af patienter med apopleksi},
+  Author                   = {Dansk Selskab for Apopleksi},
+  Journal                  = {Dansk Selskab for Apopleksi},
+  Year                     = {2009},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{Association2006,
+  Title                    = {Recovery after Stroke: Movement and Balance},
+  Author                   = {National Stroke Association},
+  Journal                  = {National Stroke Association},
+  Year                     = {2006},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.10.09}
+}
+
+@Article{Badke2009,
+  Title                    = {Tongue-Based Biofeedback for Balance in Stroke: Results of an 8-Week Pilot Study},
+  Author                   = {Badke, Mary Beth and others},
+  Journal                  = {Physical Medicine and Rehabilitation},
+  Year                     = {2009},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.10.08}
+}
+
+@Article{Barclay-Goddard2004,
+  Title                    = {Force platform feedback for standing balance training after stroke},
+  Author                   = {Barclay-Goddard, Ruth E. and others},
+  Journal                  = {The Cochrane Library},
+  Year                     = {2004},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.29}
+}
+
+@Article{Blanchard1972,
+  Title                    = {The Relative Efficacy of Visual and Auditory Feedback for Self-Control of Heart Rate},
+  Author                   = {Blanchard, Edward B. and Young, Larry D.},
+  Year                     = {1972},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.10.14}
+}
+
+@Book{Bojsen-Moeller2012,
+  Title                    = {Bevægeapparatets Anatomi},
+  Author                   = {Bojsen-Møller, Finn and Simonsen, Erik B. and Tranum-Jensen, Jørgen},
+  Publisher                = {Gyldendal Akademisk},
+  Year                     = {2012},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.04}
+}
+
+@Article{Boss2010,
+  Title                    = {Pathopsysiology: The biologic basic for disease in adults and children.},
+  Author                   = {B. J. Boss},
+  Journal                  = {Mosby Elsevier},
+  Year                     = {2010},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.01}
+}
+
+@Article{Bradt2010,
+  Title                    = {Music therapy for acquired brain injury},
+  Author                   = {Bradt, Joke and others},
+  Journal                  = {The Cochrane Library},
+  Year                     = {2010},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.29}
+}
+
+@Book{Caplan2006,
+  Title                    = {Stroke},
+  Author                   = {Caplan, Louis R.},
+  Editor                   = {American Academy of Neurology},
+  Publisher                = {Demos Medical},
+  Year                     = {2006},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Electronic{Center,
+  Title                    = {Stroke Assesment Scales},
+  Author                   = {The Internet Stroke Center},
+  Url                      = {http://www.strokecenter.org/professionals/stroke-diagnosis/stroke-assessment-scales/},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Electronic{Centera,
+  Title                    = {Hemispheric Stroke Scale},
+  Author                   = {The Internet Stroke Center},
+  Url                      = {http://www.strokecenter.org/wp-content/uploads/2011/08/hemispheric.pdf},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Electronic{Centerb,
+  Title                    = {Scandinavian Stroke Scale},
+  Author                   = {The Internet Stroke Center},
+  Url                      = {http://www.strokecenter.org/wp-content/uploads/2011/08/scandinavian.pdf},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Electronic{Centerc,
+  Title                    = {European Stroke Scale},
+  Author                   = {The Internet Stroke Center},
+  Url                      = {http://www.strokecenter.org/wp-content/uploads/2011/08/European_Stroke_Scale.pdf},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{Christensen&Zielke2008,
+  Title                    = {Klinisk retningslinie for akut indlagte, voksne patienter med apopleksia cerebri},
+  Author                   = {Christensen, Doris; Zielke, Susanne S.},
+  Year                     = {2008},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.09.15},
+  Url                      = {http://www.dsfa.dk/Dokumenter/Fagligt/Klinisk-retningslinie-dysfagi-februar-2008.pdf}
+}
+
+@Electronic{Christensen2015,
+  Title                    = {Forebyggelse},
+  Author                   = {Christensen, Hanne},
+  Organization             = {Hjernesagen},
+  Url                      = {http://www.hjernesagen.dk/forebyggelse},
+  Year                     = {2015},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.10.08}
+}
+
+@Book{Devasahayam2000,
+  Title                    = {Signals and Systems in Biomedical Engineering: Signal Processing and Physiological Systems Modelling},
+  Author                   = {Suresh R. Devasahayam},
+  Editor                   = {Evangelina Micheli-Tzanakou},
+  Publisher                = {Springer Science+Business Media, LLC},
+  Year                     = {2000},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.10.12}
+}
+
+@Article{DSfA2009,
+  Title                    = {Referenceprogram for behandling af patienter med apopleksi},
+  Author                   = {DSfA},
+  Journal                  = {Dansk Selskab for Apopleksi},
+  Year                     = {2009},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.09.15}
+}
+
+@Electronic{EEtech2003,
+  Title                    = {Rectifier Circuits},
+  Author                   = {EEtech},
+  Url                      = {http://www.allaboutcircuits.com/textbook/semiconductors/chpt-3/rectifier-circuits/},
+  Year                     = {2003},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.10.12}
+}
+
+@Electronic{Gade2004,
+  Title                    = {Neuropsykologiske opslag og temaer til "Gads psykologileksikon"},
+  Author                   = {Gade, Anders and Smed, Annelise and Pedersen, Palle Møller},
+  HowPublished             = {Bog},
+  Organization             = {Gads Forlag},
+  Url                      = {http://gade.psy.ku.dk/Undervis/a.htm},
+  Year                     = {2004},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.01}
+}
+
+@Article{Giggins2013,
+  Title                    = {Biofeedback in Rehabilitation},
+  Author                   = {Giggins, Oonagh M and Persson, Ulrik McCarthy and others},
+  Journal                  = {Journal of Neuroengineering and Rehabilitation},
+  Year                     = {2013},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.09.28}
+}
+
+@Electronic{Giraldo2015,
+  Title                    = {Overview of Stroke},
+  Author                   = {Giraldo, Elias A.},
+  Url                      = {http://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/stroke-cva/overview-of-stroke},
+  Year                     = {2015},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Article{Glanz1997,
+  Title                    = {Biofeedback therapy in stroke rehabilitation: a review},
+  Author                   = {Glanz, Morton and others},
+  Year                     = {1997},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.10.09}
+}
+
+@Article{Glanz1995,
+  Title                    = {Biofeedback therapy in poststroke rehabilitation: A meta-analysis of the randomized controlled trials},
+  Author                   = {Glanz, Morton and others},
+  Journal                  = {Physical Medicine and Rehabilitation},
+  Year                     = {1995},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.29}
+}
+
+@Electronic{Hain2008,
+  Title                    = {What Is Balance and Vestibular Rehabilitation Therapy?},
+  Author                   = {Hain, Timothy C.},
+  Organization             = {The American Hearing Research Foundation},
+  Url                      = {http://www.brainline.org/content/2011/02/what-is-balance-and-vestibular-rehabilitation-therapy_pageall.html},
+  Year                     = {2008},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.08}
+}
+
+@Book{Hall2015,
+  Title                    = {Guyton and Hall Textbook of Medical Physiology},
+  Author                   = {Hall, John E},
+  Publisher                = {Elsevier - Health Sciences Division},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.04}
+}
+
+@Electronic{Hampton2015,
+  Title                    = {Your Plastic Brain: The Good, The Bad, and The Ugly},
+  Author                   = {Hampton, Debbie},
+  Language                 = {Engelsk},
+  Month                    = {Oktober},
+  Organization             = {The Best Brain Possible},
+  Url                      = {http://www.thebestbrainpossible.com/the-good-the-bad-and-the-ugly-2/},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.15}
+}
+
+@Electronic{Hansen2015,
+  Title                    = {CT-scanning},
+  Author                   = {Hansen, Nina Kanstrup and Kjems, Elisabeth},
+  Month                    = {Juni},
+  Organization             = {Kræftens Bekæmpelse},
+  Url                      = {https://www.cancer.dk/hjaelp-viden/undersoegelser-for-kraeft/scanninger-billedundersoegelser/ct-scanning/},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.01}
+}
+
+@Electronic{Hjernesagen2015,
+  Title                    = {Tal og fakta om hjerneskader},
+  Author                   = {Hjernesagen},
+  Language                 = {Dansk},
+  Month                    = {April},
+  Url                      = {http://www.hjernesagen.dk/om-hjerneskader/tal-og-fakta-om-hjerneskader},
+  Year                     = {2015},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.09.22}
+}
+
+@Electronic{Hjernesagen2015a,
+  Title                    = {Fakta om Apopleksi},
+  Author                   = {Hjernesagen},
+  Language                 = {Dansk},
+  Month                    = {April},
+  Url                      = {http://www.hjernesagen.dk/om-hjerneskader/bloedning-eller-blodprop-i-hjernen/fakta-om-apopleksi},
+  Year                     = {2015},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.09.22}
+}
+
+@Electronic{Hjernesagen2015b,
+  Title                    = {Trombolysebehandling af blodprop i hjernen},
+  Author                   = {Hjernesagen},
+  Url                      = {http://www.hjernesagen.dk/om-hjerneskader/behandling/trombolyse},
+  Year                     = {2015},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Electronic{Hjerteforeningen2014,
+  Title                    = {Apopleksi},
+  Author                   = {Hjerteforeningen},
+  Url                      = {http://www.hjerteforeningen.dk/alt-om-dit-hjerte/hjerte-kar-sygdomme/apopleksi/},
+  Year                     = {2014},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Electronic{Hjaelpemiddelbasen,
+  Title                    = {Biofeedback udstyr til bevægelses-, styrke- og balancetræning},
+  Author                   = {Hjælpemiddelbasen},
+  Url                      = {http://www.hmi-basen.dk/r4x.asp?linktype=iso&linkinfo=044824&P=1},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Electronic{Hjaelpemiddelbasen2015,
+  Title                    = {Biofeedback udstyr til bevægelses-, styrke- og balancetræning},
+  Author                   = {Hjælpemiddelbasen},
+  Month                    = {September},
+  Organization             = {Socialstyrelsen},
+  Url                      = {http://www.hmi-basen.dk/r11x.asp?linkinfo=46309},
+  Year                     = {2015},
+
+  Owner                    = {sofiehelenebjrsrudjensen},
+  Timestamp                = {2015.09.22}
+}
+
+@Electronic{Inc.2015,
+  Title                    = {A beginner’s guide to accelerometers},
+  Author                   = {Dimension Engineering Inc.},
+  Month                    = {Oktober},
+  Url                      = {http://www.dimensionengineering.com/info/accelerometers},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.12}
+}
+
+@Article{Joergensen2004,
+  Title                    = {Vestibulær rehabilitering},
+  Author                   = {Jørgensen, Tom},
+  Year                     = {2004},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.08},
+  Url                      = {https://fysio.dk/Upload/Graphics/PDF/Artikeltillaeg/vestibulaer_rehabilitering.pdf}
+}
+
+@Article{Karnath2003,
+  Title                    = {Understanding and Treating “Pusher Syndrome”},
+  Author                   = {Karnath, Hans-Otto; Broetz, Doris},
+  Journal                  = {Physical Therapy. Volume 83. Number 12},
+  Year                     = {2003},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.09.15}
+}
+
+@Electronic{Kjaergaard2015,
+  Title                    = {Antikoagulationsbehandling (blodfortyndende medicin)},
+  Author                   = {Kjærgaard, Jesper},
+  Url                      = {https://www.sundhed.dk/borger/sygdomme-a-aa/hjerte-og-blodkar/sygdomme/behandlinger/antikoagulationsbehandling-blodfortyndende-medicin/},
+  Year                     = {2015},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Book{Konrad2006,
+  Title                    = {The ABC of EMG - A Practical Introduction to Kinesiological Electromyography},
+  Author                   = {Peter Konrad},
+  Publisher                = {Noraxon INC. USA.},
+  Year                     = {2006},
+
+  Owner                    = {sofiehelenebjrsrudjensen},
+  Timestamp                = {2015.10.12}
+}
+
+@Electronic{Krag2015,
+  Title                    = {accelerometer},
+  Author                   = {Krag, Fritz and redaktionen},
+  Month                    = {Oktober},
+  Organization             = {Den Store Danske},
+  Url                      = {http://www.denstoredanske.dk/Bil,_b%C3%A5d,_fly_m.m./Luftfart/Flyvning,_fly_og_instrumenter/accelerometer},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.12}
+}
+
+@Electronic{Kruuse2015,
+  Title                    = {Apopleksi, Rehabilitering},
+  Author                   = {Kruuse, Christina Rostrup},
+  Language                 = {Dansk},
+  Month                    = {April},
+  Url                      = {https://www.sundhed.dk/borger/sygdomme-a-aa/hjerte-og-blodkar/sygdomme/apopleksi/apopleksi-rehabilitering/},
+  Year                     = {2015},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Electronic{Kruuse2014,
+  Title                    = {Apopleksi - blodprop eller blødning i hjernen},
+  Author                   = {Christina Rostrup Kruuse},
+  Language                 = {Dansk},
+  Month                    = {August},
+  Url                      = {https://www.sundhed.dk/borger/sygdomme-a-aa/hjerte-og-blodkar/sygdomme/apopleksi/apopleksi-blodprop-eller-bloedning-i-hjernen/},
+  Year                     = {2014},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.09.22}
+}
+
+@Electronic{Kruuse2014a,
+  Title                    = {Behandling ved apopleksi},
+  Author                   = {Kruuse, Christina Rostrup},
+  Url                      = {https://www.sundhed.dk/borger/sygdomme-a-aa/hjerte-og-blodkar/sygdomme/apopleksi/behandling-ved-apopleksi/},
+  Year                     = {2014},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Electronic{Kruuse2015a,
+  Title                    = {Apopleksi, kognitive symptomer},
+  Author                   = {Kruuse, Christina Rostrup and Andersen, John Sahl and Witting, Nanna and Klamer, Finn},
+  Organization             = {Sundhed.dk},
+  Url                      = {https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/hjerte-kar/tilstande-og-sygdomme/apopleksi-og-tia/apopleksi-kognitive-symptomer/},
+  Year                     = {2015},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.09.15}
+}
+
+@Article{Lamontagne2006,
+  Title                    = {Physiological evaluation of gait disturbances post stroke},
+  Author                   = {Anouk Lamontagne and Jennifer L. Stephenson and others},
+  Journal                  = {Clinical Neurophysiology},
+  Year                     = {2006},
+
+  Owner                    = {sofiehelenebjrsrudjensen},
+  Timestamp                = {2015.10.01}
+}
+
+@Article{Leea2009,
+  Title                    = {Cortical activation pattern of compensatory movement in stroke patients},
+  Author                   = {Mi Young Leea and Ji Won Parkb and others},
+  Journal                  = {NeuroRehabilitation},
+  Year                     = {2009},
+
+  Owner                    = {sofiehelenebjrsrudjensen},
+  Timestamp                = {2015.10.01}
+}
+
+@Article{Lowood2015,
+  Title                    = {Virtual reality (VR)},
+  Author                   = {Lowood, Henry E.},
+  Journal                  = {Britannica Academic},
+  Year                     = {2015},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.29}
+}
+
+@Article{Mao2014,
+  Title                    = {Virtual reality training improves balance function},
+  Author                   = {Mao, Yurong and others},
+  Journal                  = {Neural Regeneration Research},
+  Year                     = {2014},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.10.09}
+}
+
+@Book{Martini2012,
+  Title                    = {Fundamentals of Anatomy \& Physiology},
+  Author                   = {Martini, Frederic H. and others},
+  Editor                   = {Berriman, Leslie},
+  Publisher                = {Pearson Education},
+  Year                     = {2012},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{Mehrholz2013,
+  Title                    = {Electromechanical-assisted training for walking after stroke},
+  Author                   = {Mehrholz, Jan and others},
+  Journal                  = {The Cochrane Library},
+  Year                     = {2013},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.29}
+}
+
+@Book{Michael-Titus2010,
+  Title                    = {The nervous system : basic science and clinical conditions},
+  Author                   = {Michael-Titus, Adina; Revest, Patricia; Shortland, Peter},
+  Editor                   = {2. ed.},
+  Publisher                = {Edinburgh : Churchill Livingstone},
+  Year                     = {2010},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.09.15}
+}
+
+@Article{Middaugh1989,
+  Title                    = {Biofeedback in treatment of urinary incontinence in stroke patients},
+  Author                   = {Middaugh, Susan J. and others},
+  Journal                  = {Biofeedback and Self-regulation},
+  Year                     = {1989},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Book{Moos2010,
+  Title                    = {Basal neuroanatomi},
+  Author                   = {Moos, Torben and Møller, Morten},
+  Publisher                = {FADL's forlag},
+  Year                     = {2010},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.10.09}
+}
+
+@PhdThesis{Muus2008,
+  Title                    = {Helbredsrelateret livskvalitet efter apopleks: Validering og anvendelse af SSQOL-DK, et diagnosespecifikt instrument til måling af helbredsrelateret livskvalitet blandt danske apopleksipatienter},
+  Author                   = {Muus, Ingrid and Ringsberg, Karin C and Petzold, Max and Persson, Lars-Olof},
+  School                   = {Nordic School of Public Health NHV Göteborg, Sweden},
+  Year                     = {2008},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.09.15}
+}
+
+@Article{Nichols1997,
+  Title                    = {Balance retraining after stroke using force platform biofeedback.},
+  Author                   = {Nichols, D.S.},
+  Journal                  = {Physical Therapy. Volume 77. Number 5. Page 553-558},
+  Year                     = {1997},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.09.15}
+}
+
+@Book{Nilsson2011,
+  Title                    = {Electric circuits},
+  Author                   = {Nilsson, James W. and Riedel, Susan A.},
+  Publisher                = {Pearson Education},
+  Year                     = {2011},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.10.12}
+}
+
+@Article{Pedersen1999,
+  Title                    = {Kognitive forstyrrelser ved apopleksi - hyppighed, betydning og genoptræning},
+  Author                   = {Pedersen, P. M. og Olsen, S. T.},
+  Journal                  = {Munksgaard},
+  Year                     = {1999},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.10.08}
+}
+
+@Book{Prentice2007,
+  Title                    = {Techniques in musculoskeletal rehabilitation},
+  Author                   = {Prentice, William E. and Voight, Michael I.},
+  Publisher                = {The McGraw-Hill Companies},
+  Year                     = {2007},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.10.09}
+}
+
+@Book{Raine2009,
+  Title                    = {Bobath Concept - Theory and Clinical Practice in Neurological Rehabilitation},
+  Author                   = {Raine, Sue and Meadows, Linzi and Lynch-Ellerington, Mary},
+  Publisher                = {Wiley-Blackwell},
+  Year                     = {2009},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.03},
+  Url                      = {http://faculty.mu.edu.sa/public/uploads/1348328471.2341Bobath.Concept.2009.pdf}
+}
+
+@Article{Ramanathan2006,
+  Title                    = {A form of motor cortical plasticity that correlates with recovery of function after brain injury},
+  Author                   = {Ramanathan, Dhakshin and Conner, James M. and Tuszynski Mark H.},
+  Journal                  = {Pubmed},
+  Year                     = {2006},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.01},
+  Url                      = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1544093/}
+}
+
+@Electronic{Redaktionen2015,
+  Title                    = {Agnosi},
+  Author                   = {Redaktionen, Den store danske},
+  Url                      = {http://www.denstoredanske.dk/Krop,_psyke_og_sundhed/Psykologi/Psykologiske_termer/agnosi},
+  Year                     = {2015},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.10.08}
+}
+
+@Electronic{Redaktionen2015a,
+  Title                    = {Ataksi},
+  Author                   = {Redaktionen, D. s. d.},
+  Url                      = {http://www.denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Børnesygdomme_og_medfødte_misdannelser/ataksi},
+  Year                     = {2015},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.10.08}
+}
+
+@Electronic{Ritter2015,
+  Title                    = {Lowering the Risks of Storke in Women (and Men)},
+  Author                   = {Ritter, Leslie and Coull, Bruce},
+  Url                      = {http://heart.arizona.edu/heart-health/preventing-stroke/lowering-risks-stroke},
+  Year                     = {2015},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Electronic{Rugnett2015,
+  Title                    = {Neuroplasticity},
+  Author                   = {Michael Rugnetta},
+  Month                    = {Oktober},
+  Organization             = {Britannica academic},
+  Url                      = {http://academic.eb.com.zorac.aub.aau.dk/EBchecked/topic/410552/neuroplasticity},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.03}
+}
+
+@Article{Sagen2014,
+  Title                    = {Antal Ældre},
+  Author                   = {Sagen, Ældre},
+  Journal                  = {Danmarks Statistik},
+  Year                     = {2014},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Article{Schulmann1987,
+  Title                    = {Effect of Eye Movements on Dynamic Equilibrium},
+  Author                   = {Schulmann, Diana L. and others},
+  Year                     = {1987},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.10.06}
+}
+
+@Book{Schulze2011,
+  Title                    = {Basisbog i Sygdomslære},
+  Author                   = {Schulze, Svend and Schroeder, Torben V.},
+  Publisher                = {Munksgaard Danmark},
+  Year                     = {2011},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23},
+  Url                      = {https://books.google.dk/books?id=vNK8CRu4t9sC&pg=PA444&lpg=PA444&dq=karokklusion&source=bl&ots=jAu__8N4Oz&sig=I4LKVLfRFQVE4NZYjHpUepM6jms&hl=da&sa=X&ved=0CEMQ6AEwB2oVChMI1Lbp_fv4xwIVCANzCh0AmgAV#v=onepage&q=apopleksi&f=false}
+}
+
+@Book{Stanfield2014,
+  Title                    = {Principles of Human Physiology},
+  Author                   = {Stanfield, Cindy L.},
+  Publisher                = {Pearson Education},
+  Year                     = {2014},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.01}
+}
+
+@Electronic{Sundhed.dk2014,
+  Title                    = {Apopleksi og TCI(=TIA)},
+  Author                   = {Sundhed.dk},
+  Month                    = {September},
+  Url                      = {https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/hjerte-kar/tilstande-og-sygdomme/apopleksi-og-tia/apopleksi-og-tia-tci/#1},
+  Year                     = {2014},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Electronic{Sundhed.dk2014a,
+  Title                    = {Parese},
+  Author                   = {Sundhed.dk},
+  Url                      = {https://www.sundhed.dk/sundhedsfaglig/laegehaandbogen/neurologi/symptomer-og-tegn/parese/},
+  Year                     = {2014},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.10.08}
+}
+
+@Article{Sundhedsstyrelsen2011,
+  Title                    = {Bilag til Forløbsprogram for rehabilitering af voksne med erhvervet hjerneskade - apopleksi og TCI},
+  Author                   = {Sundhedsstyrelsen},
+  Journal                  = {Sundhedsstyrelsen},
+  Year                     = {2011},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.09.22}
+}
+
+@Article{Sundhedsstyrelsen2011a,
+  Title                    = {Forløbsprogram for rehabilitering af voksne med erhvervet hjerneskade},
+  Author                   = {Sundhedsstyrelsen},
+  Journal                  = {Sundhedsstyrelsen},
+  Year                     = {2011},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Article{Sundhedsstyrelsen2010,
+  Title                    = {Hjerneskaderehabilitering - en medicinsk teknologivurdering},
+  Author                   = {Sundhedsstyrelsen},
+  Journal                  = {Sundhedsstyrelsen},
+  Year                     = {2010},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.09.22}
+}
+
+@Article{Sundhedsstyrelsen2009,
+  Title                    = {Referenceprogram for behandling af patienter med apopleksi},
+  Author                   = {Sundhedsstyrelsen},
+  Journal                  = {Sundhedsstyrelsen},
+  Year                     = {2009},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.09.23}
+}
+
+@Electronic{Syddanmark,
+  Title                    = {Apopleksi - ratingscales},
+  Author                   = {Region Syddanmark},
+  Url                      = {http://ekstern.infonet.regionsyddanmark.dk/Files/dokument90214.htm},
+
+  Owner                    = {Mathias},
+  Timestamp                = {2015.09.24}
+}
+
+@Electronic{Soenderborg2013,
+  Title                    = {Hjerneblødninger svære at behandle akut},
+  Author                   = {Birgitte R. Sønderborg},
+  Month                    = {April},
+  Organization             = {Hjernesagen},
+  Url                      = {http://www.hjernesagen.dk/om-hjerneskader/behandling/hjernebloedning},
+  Year                     = {2013},
+
+  Owner                    = {sofiehelenebjrsrudjensen},
+  Timestamp                = {2015.10.05}
+}
+
+@Article{Takeuchi2012,
+  Title                    = {Maladaptive Plasticity for Motor Recovery after Stroke: Mechanisms and Approaches},
+  Author                   = {Naoyuki Takeuchi and Shin-Ichi Izumi},
+  Journal                  = {Department of Physical Medicine and Rehabilitation, Tohoku University Graduate School of Medicine},
+  Year                     = {2012},
+
+  Owner                    = {sofiehelenebjrsrudjensen},
+  Timestamp                = {2015.10.01}
+}
+
+@Article{Thieme2012,
+  Title                    = {Mirror therapy for improving motor function after stroke},
+  Author                   = {Thieme, Holm and Mehrholz, Jan and others},
+  Journal                  = {Cochrane Library},
+  Year                     = {2012},
+
+  Owner                    = {Nikolineeeee},
+  Timestamp                = {2015.10.01}
+}
+
+@Electronic{Vistrup2015,
+  Title                    = {Paralyse},
+  Author                   = {Vistrup, Lene},
+  Url                      = {http://www.denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Medicinske_nervesygdomme/paralyse},
+  Year                     = {2015},
+
+  Owner                    = {Maria},
+  Timestamp                = {2015.10.08}
+}
+
+@Electronic{Watson2015,
+  Author                   = {Watson, Mary Ann and Black, F. Owen},
+  Organization             = {The Vestibular Disorders Association},
+  Url                      = {http://vestibular.org/understanding-vestibular-disorder/human-balance-system},
+  Year                     = {2015},
+
+  Owner                    = {Mads},
+  Timestamp                = {2015.10.06}
+}
+
+@Book{Webster2009,
+  Title                    = {Medical Instrumentation: Application and Design},
+  Author                   = {Webster, John G},
+  Publisher                = {John Wiley And Sons Ltd},
+  Year                     = {2009},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.01}
+}
+
+@Book{Zouridakis2003,
+  Title                    = {Biomedical Technology and Devices Handbook},
+  Author                   = {George Zouridakis and James Moore},
+  Publisher                = {CRC Press},
+  Year                     = {2003},
+
+  Owner                    = {sofiehelenebjrsrudjensen},
+  Timestamp                = {2015.10.12}
+}
+
+@Electronic{2015,
+  Title                    = {Neurons and the Nervous System - Part 2},
+  Month                    = {Okbtober},
+  Url                      = {http://people.eku.edu/ritchisong/301notes2b.html},
+  Year                     = {2015},
+
+  Owner                    = {Cecilie},
+  Timestamp                = {2015.10.04}
+}
+
